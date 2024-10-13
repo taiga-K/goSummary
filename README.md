@@ -1,0 +1,2 @@
+# goSummary
+GitHubの承認済みIssueを取得し、Gemini AIで要約、その要約をXに自動で投稿するプロセスを実現します
